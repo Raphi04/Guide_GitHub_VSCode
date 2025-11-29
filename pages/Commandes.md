@@ -17,7 +17,7 @@ Penser à bien vous mettre dans l'onglet **_GitHub_** de **_VS Code_**.
 
 - [Changer de branche](#Changer-de-branche)
 
-- [Fusionner les branches](Fusionner-les-branches)
+- [Fusionner les branches](#Fusionner-les-branches)
 
 ## Récupérer les dernières modifications de la branche actuelle
 
