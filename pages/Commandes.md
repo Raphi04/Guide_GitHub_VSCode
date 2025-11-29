@@ -7,18 +7,6 @@ Penser à bien vous mettre dans l'onglet **_GitHub_** de **_VS Code_**.
 
 ![Catégorie de VS Code](../assets/commandes/vscode_cat.png)
 
-## Changer de branche
-
-- Pour changer de branche, il suffit de cliquer sur **_..._** à côté de **_Modifications_**, puis de cliquer sur **_Basculer sur_**.
-
-> Cela correspond à la commande : `git checkout [nom_de_la_branche]`.
-
-![Bouton de checkout](../assets/commandes/checkout.png)
-
-- Sélectioner ensuite la branche sur laquelle vous souhaitez aller (de préférence les branches distantes marqué par un **_Origin_**, pour éviter des problèmes).
-
-![Bouton de checkout, partie 2](../assets/commandes/checkout_pt2.png)
-
 ## Récupérer les dernières modifications de la branche actuelle
 
 - Pour récupérer les dernières modifications de votre branche actuelle, il suffit de cliquer sur **_..._** à côté de **_Modifications_**, puis de cliquer sur **_Tirer (Pull)_**.
@@ -44,5 +32,41 @@ Penser à bien vous mettre dans l'onglet **_GitHub_** de **_VS Code_**.
 - Enfin, il ne manque plus qu'à envoyer votre commit au dépot GitHub en cliquant sur bouton d'envoie.
 
 ![Bouton de push](../assets/commandes/push.png)
+
+## Créer une branche
+
+- Pour créer une branche, il suffit de cliquer sur **_..._** à côté de **_Modifications_**, puis d'aller sur **_branche_** et enfin cliquer sur Créer une branche.
+
+> Cela correpond à la commande : `git branch [nom_de_la_branche]`.
+
+![Bouton de création de branche](../assets/commandes/create_branch.png)
+
+- Ensuite, nommez là.
+
+![Bouton de nommage de la branche](../assets/commandes/name_branch.png)
+
+- Enfin, envoyez-là au dépot GitHub en cliquant sur **_Publier Branch_**.
+
+![Bouton de publication de la branche](../assets/commandes/send_branch.png)
+
+## Changer de branche
+
+- Pour changer de branche, il suffit de cliquer sur **_..._** à côté de **_Modifications_**, puis de cliquer sur **_Basculer sur_**.
+
+> Cela correspond à la commande : `git checkout [nom_de_la_branche]`.
+
+![Bouton de checkout](../assets/commandes/checkout.png)
+
+- Sélectioner ensuite la branche sur laquelle vous souhaitez aller (de préférence les branches distantes marqué par un **_Origin_**, pour éviter des problèmes).
+
+![Bouton de checkout, partie 2](../assets/commandes/checkout_pt2.png)
+
+## Fusionner les branches
+
+> Pour fusionner les branches, vous devez tout d'abords vous déplacer sur la branche de destination, celle qui recevra les données.
+
+> Voyez ça comme si la branche de destination tirait vers elle les données de la branche de départ.
+
+-
 
 > [Revenir à l'accueil](../README.md)
