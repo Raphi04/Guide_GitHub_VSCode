@@ -17,4 +17,6 @@ Il existe énormément de méthode de travail en ce qui concerne les branches Gi
 Concrètement à chaque fonctionnalité on va créer une nouvelle branche dans **_Dev_**.  
 Quand on est satisfait, on fusionne **_Dev_** avec **_Main_**.
 
+Il est conseiller de toujours **_pull_** avant de **_push_**. En cas de **_conflit_**, il est préférable qu'il apparraisse plutôt sur un seul PC que sur le dépot **_GitHub_**.
+
 > [Revenir à l'accueil](../README.md)

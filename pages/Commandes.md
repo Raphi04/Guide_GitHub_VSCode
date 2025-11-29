@@ -7,6 +7,18 @@ Penser à bien vous mettre dans l'onglet **_GitHub_** de **_VS Code_**.
 
 ![Catégorie de VS Code](../assets/commandes/vscode_cat.png)
 
+## Sommaire
+
+- [Récupérer les dernières modifications de la branche actuelle](#Récupérer-les-dernières-modifications-de-la-branche-actuelle)
+
+- [Envoyer vos modifications et ajouts au dépot GitHub](#Envoyer-vos-modifications-et-ajouts-au-dépot-GitHub)
+
+- [Créer une branche](#Créer-une-branche)
+
+- [Changer de branche](#Changer-de-branche)
+
+- [Fusionner les branches](Fusionner-les-branches)
+
 ## Récupérer les dernières modifications de la branche actuelle
 
 - Pour récupérer les dernières modifications de votre branche actuelle, il suffit de cliquer sur **_..._** à côté de **_Modifications_**, puis de cliquer sur **_Tirer (Pull)_**.
