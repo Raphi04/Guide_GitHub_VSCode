@@ -35,7 +35,7 @@ Penser à bien vous mettre dans l'onglet **_GitHub_** de **_VS Code_**.
 
 ## Créer une branche
 
-- Pour créer une branche, il suffit de cliquer sur **_..._** à côté de **_Modifications_**, puis d'aller sur **_branche_** et enfin cliquer sur Créer une branche.
+- Pour créer une branche, il suffit de cliquer sur **_..._** à côté de **_Modifications_**, puis d'aller sur **_branche_** et enfin cliquer sur **_Créer une branche_**.
 
 > Cela correpond à la commande : `git branch [nom_de_la_branche]`.
 
@@ -67,6 +67,18 @@ Penser à bien vous mettre dans l'onglet **_GitHub_** de **_VS Code_**.
 
 > Voyez ça comme si la branche de destination tirait vers elle les données de la branche de départ.
 
--
+- Pour créer une branche, il suffit de cliquer sur **_..._** à côté de **_Modifications_**, puis d'aller sur **_branche_** et enfin cliquer sur **_Fusionner_**.
+
+> Cela correspond à la commande : `git merge [nom_de_la_branche]`
+
+![Bouton de merge](../assets/commandes/merge_branch.png)
+
+- Séléctionner la branche dont vous souhaitez récupérer les informations (de préférence les branches distantes marqué par un **_Origin_**, pour éviter des problèmes).
+
+![Bouton de merge, partie 2](../assets/commandes/merge_selection_branch.png)
+
+- Enfin, synchroniser la fusion avec le dépôt GitHub.
+
+![Bouton de push](../assets/commandes/push.png)
 
 > [Revenir à l'accueil](../README.md)
