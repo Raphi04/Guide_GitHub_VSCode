@@ -1,3 +1,5 @@
+> [Revenir à l'accueil](../README.md)
+
 # Organisation des branches de travail
 
 Il existe énormément de méthode de travail en ce qui concerne les branches GitHub, nous allons ici en voir une simple qui peux s'appliquer a de petits projets.
@@ -14,3 +16,5 @@ Il existe énormément de méthode de travail en ce qui concerne les branches Gi
 
 Concrètement à chaque fonctionnalité on va créer une nouvelle branche dans **_Dev_**.  
 Quand on est satisfait, on fusionne **_Dev_** avec **_Main_**.
+
+> [Revenir à l'accueil](../README.md)

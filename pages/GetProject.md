@@ -1,3 +1,5 @@
+> [Revenir à l'accueil](../README.md)
+
 # Récupérer un projet GitHub sur son PC
 
 Nous verrons deux méthodes de récupération de projet GitHub.
@@ -35,3 +37,5 @@ La deuxième méthode résout ce problème en initialisant un dépot **_git_** s
 ![GitHubLink](../assets/getProject/github_link.png)
 
 - Enfin, choisissez là où vous souhaitez placer le dossier contenant le projet et ouvrez le dans **_VS Code_**.
+
+> [Revenir à l'accueil](../README.md)
